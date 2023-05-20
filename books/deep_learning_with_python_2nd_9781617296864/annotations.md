@@ -1,6 +1,6 @@
-# 1. What is dee learning? 
+# 1. What is deep learning? 
 
-# 2. The mathmatical building blocks of neural networks 
+# 2. The mathematical building blocks of neural networks 
 
 # 3. Introduction to Keras and TensorFlow 
 
@@ -16,7 +16,7 @@
 
 # 9. Advanced deep learning for computer vision 
 
-# 10. Deep learning for timeseries
+# 10. Deep learning for time-series
 
 # 11. Deep learning for text 
 

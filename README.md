@@ -2,6 +2,10 @@
 
 A collection of insights from books and papers that I have examined.
 
+# Reading Manifest
+
+This is a list of papers, books, or articles that tempt my intrest.
+
 # Licensing
 
 All books and papers referenced are understood to be owned and copyrighted by
