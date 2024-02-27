@@ -43,6 +43,10 @@
 - https://www.algorithmsilluminated.org/
 19. Precalculus Mathematics in a Nutshell
 - https://openlibrary.org/books/OL8012300M/Precalculus_mathematics_in_a_nutshell
+20. The shape of data
+- https://nostarch.com/shapeofdata
+21. Math for Security
+- https://nostarch.com/math-security
 
 
 # Video Manifest
