@@ -20,13 +20,21 @@ cybersecurity needed for a practitioner.
 Reference
 
 [3]: Data analysis for network cyber-security.
+
 [82]: Statistical methods in computer security.
+
 [293]:Machine learning and data mining for computer security: Methods and applications.
+
 [299:](https://link.springer.com/book/10.1007/978-1-4757-3458-4) Computer intrusion detection and network monitoring: A statistical viewpoint. 
+
 [333:](https://www.amazon.com/Network-Intrusion-Detection-Stephen-Northcutt/dp/0735712654) Network intrusion detection.
+
 [402]: Cryptography and network security - principals and practice. (3rd)
+
 [404]: Computer security: principles and practice.
+
 [445]: Computer and information security handbook.
+
 
 # Chapter 2: What is Data Analytics?
 
